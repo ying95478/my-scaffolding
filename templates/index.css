@@ -1,0 +1,10 @@
+body, div {
+  margin: 0;
+  padding: 0;
+}
+#app {
+  font-size: 24px;
+  color: red;
+  text-align: center;
+  margin-top: 100px;
+}

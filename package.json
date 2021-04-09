@@ -1,0 +1,13 @@
+{
+  "name": "my-scaffolding",
+  "version": "1.0.0",
+  "description": "my scaffolding",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "author": "chen guo peng",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "inquirer": "^8.0.0"
+  }
+}
